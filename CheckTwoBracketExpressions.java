@@ -7,9 +7,7 @@ public class CheckTwoBracketExpressions {
         System.out.println(checkExpression(A));
     }
     public static String checkExpression(String A){
-        StringBuffer sb = new StringBuffer();
-        Stack<Character> st = new Stack<>();
-
+        
         
     }
 }
